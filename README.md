@@ -18,7 +18,6 @@ You can find me on:
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![Scala](https://img.shields.io/badge/-Scala-000?&logo=Scala)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 
 ### Technologies
